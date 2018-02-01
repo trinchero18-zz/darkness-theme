@@ -1,0 +1,23 @@
+{
+    "name": "darkness-theme",
+    "displayName": "Darkness Theme",
+    "description": "black is the new black",
+    "version": "0.0.1",
+    "publisher": "trinchero18",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "Darkness Theme",
+                "label": "Darkness Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkness_Theme-color-theme.json"
+            }
+        ]
+    }
+}
